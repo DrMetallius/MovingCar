@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">MovingCar</string>
+	<string name="title_activity_moving_car">MovingCarActivity</string>
+	<string name="action_settings">Settings</string>
+</resources>
